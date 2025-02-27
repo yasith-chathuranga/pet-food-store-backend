@@ -64,7 +64,7 @@ To run this project, ensure you have the following installed:
 
 6. **Start the application:**
    ```bash
-   npm run dev
+   start
    ```
 
 ##
